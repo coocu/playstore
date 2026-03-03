@@ -1,3 +1,10 @@
+com.freereels.app
+you.drama.shorts
+com.anyvideo.firently
+com.tiger.hwduanju
+com.launcher.light.theme3d
+com.qr.scanner.barcode.reader.app.tool
+com.mrbunn.its.pee.time
 qr9x.qrcode.scanner
 jna.vision.barcode
 com.pdffileeditor.pro
