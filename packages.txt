@@ -1,3 +1,4 @@
+com.dowmmwise.cycleapp
 com.monitorheart.ratebeat.measure
 com.KeepClear.insistin
 com.freereels.app
