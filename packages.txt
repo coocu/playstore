@@ -1,3 +1,8 @@
+com.aiclean.phone.adamkhel.junk
+com.scanner.reader.editor
+com.breezecleanerpro.ext
+com.nimbusapps.qrcodescanner
+com.animal.evo.run.daoql.free
 com.easyfiles.photo.recoveryall.restoreall
 drive.readpdf.com
 er.notepad.notes.notebook.checklist.calendar
